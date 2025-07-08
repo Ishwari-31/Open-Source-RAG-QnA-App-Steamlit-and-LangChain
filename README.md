@@ -1,4 +1,4 @@
-# Open-Source-RAG-
+# Open-Source-RAG-Q&A App (Streamlit + LangChain)
 This is an Open Source RAG project
 
 This Streamlit app allows users to upload or input content from various sources—URLs, PDFs, Word Docs, text files, or raw text—and ask questions about it using a Retrieval-Augmented Generation (RAG) pipeline.
